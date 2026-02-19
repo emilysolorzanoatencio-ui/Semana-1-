@@ -1,4 +1,4 @@
-| <div align="right"><img src="../../../Logo-UNA-Rojo_FondoTransparente%20(2).png" width="120" alt="Logo UNA" /></div> | | <p align="right"><img src="../../../images.jpeg" width="120" alt="Logo EscINF" /></p> |
+| <div align="right"><img src="../../Logo-UNA-Rojo_FondoTransparente%20(2).png" width="120" alt="Logo UNA" /></div> | | <p align="right"><img src="../../images.jpeg" width="120" alt="Logo EscINF" /></p> |
 |:----------------------------------------------------|:-------------------------------------------------------------:|------------------------------------------------------------:|
 
 **Programa de curso** · **Programación II**  
